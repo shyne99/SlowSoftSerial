@@ -1,0 +1,13 @@
+{
+    "name": "SlowSoftSerial",
+    "version": "1.0.0",
+    "keywords": "Arduino software Serial below 9600 baud using timers",
+    "include": "SlowSoftSerial",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/shyne99/i2cdevlib.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
